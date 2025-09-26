@@ -10,7 +10,7 @@
 **Submission Date:** 13/08/2025  
 **Institution:** Christ University, Bangalore  
 
-**Project Link:** [Your Project Link Here](https://adityam626.github.io/BLOG/)
+**Project Link:** [https://adityam626.github.io/BLOG/](https://adityam626.github.io/BLOG/)
 
 ---
 
